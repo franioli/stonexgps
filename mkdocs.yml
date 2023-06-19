@@ -1,0 +1,28 @@
+site_name: package_name
+repo_url: https://github.com/franioli/package_name/
+site_author: Francesco Ioli
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+  font:
+    text: Open Sans
+  features:
+    - navigation.path
+    - navigation.footer
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          paths: [src] # search packages in the src folder
+          options:
+            show_source: false
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Getting started: getting_started.md
+  - Modules:

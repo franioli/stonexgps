@@ -1,0 +1,13 @@
+numpy
+pytest
+
+[dev]
+flake8
+black
+bumpver
+isort
+pip-tools
+pytest
+mkdocs
+mkdocs-material
+mkdocstrings[python]
