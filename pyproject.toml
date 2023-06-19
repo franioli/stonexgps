@@ -19,6 +19,8 @@ dependencies = [
     "numpy",
     "pytest",
     "pandas",
+    "ipython",
+    "matplotlib",
 ]
 requires-python = ">=3.8"
 
