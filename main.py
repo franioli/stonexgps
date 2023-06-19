@@ -4,7 +4,7 @@ def run_tests():
     import pytest
 
     try:
-        import package_name
+        import stonexgps
     except ImportError as e:
         raise ImportError(e)
 

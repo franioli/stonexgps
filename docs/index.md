@@ -1,3 +1,3 @@
-# Welcome to impreproc
+# Welcome to Python Project Template
 
-A Python library for batch preprocessing of large datasets of images, e.g., acquired by several UAVs photogrammetric flights with DJI drones.
+This is an empty Python project template that can be used as a starting point for new projects.

@@ -1,5 +1,5 @@
-site_name: package_name
-repo_url: https://github.com/franioli/package_name/
+site_name: stonexgps
+repo_url: https://github.com/franioli/stonexgps/
 site_author: Francesco Ioli
 
 theme:

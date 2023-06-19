@@ -3,7 +3,7 @@
 Clone the repository
 
 ```bash
-git clone https://github.com/franioli/image_rename_batch.git
+git clone https://github.com/franioli/project_name.git
 cd image_rename_batch
 ```
 
@@ -12,7 +12,7 @@ Note: the repository name has the old name of the package. The package name is c
 Create an anaconda environment and upgrade pip
 
 ```bash
-conda create -n impreproc python=3.9
+conda create -n project_name python=3.9
 conda activate impreproc
 python3.8 -m pip install --upgrade pip
 ```
